@@ -1,3 +1,3 @@
 
 include (":app")
-rootProject.name = "Sample"
+rootProject.name = "build.gradle.kts"
