@@ -1,0 +1,1 @@
+/Users/jhy/Documents/project/android/allens/Sample/buildSrc/build/classes/kotlin/main/ExtensionsKt.class:/Users/jhy/Documents/project/android/allens/Sample/buildSrc/build/classes/kotlin/main/Libs.class
